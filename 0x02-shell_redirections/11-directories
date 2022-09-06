@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -tlRa|head
+ls -l| grep -c ^d
