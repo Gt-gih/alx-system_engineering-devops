@@ -1,1 +1,1 @@
-loop
+-web_server
